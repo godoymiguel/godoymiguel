@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Miguel Godoy
+# 👋 Hi there, my name is Miguel Godoy
 
 I'm a sofware developer since 2016.
 
